@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+    'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+
+    color: rgb(178, 186, 194);
+    background: rgb(10, 25, 41);
+}
+
+input, textarea{
+    color: white !important;
+}
+
+label{
+    color: rgba(255,255,255, 0.7) !important;
+}
